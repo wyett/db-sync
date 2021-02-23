@@ -85,3 +85,5 @@ type CollectorConfig struct {
 	FullSyncCreateIndex               string `config:full_sync.create_index`
 	FullSyncExecutorInsertOnDupUpdate bool   `config:full_sync.executor.insert_on_dup_update`
 }
+
+var option *CollectorConfig
