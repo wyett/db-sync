@@ -63,4 +63,7 @@ const (
 	VarIncrSyncReaderDebugNone    = ""
 	VarIncrSyncReaderDebugDiscard = "discard" // throw all
 	VarIncrSyncReaderDebugPrint   = "print"   // print
+
+	// ERROR CODE
+
 )

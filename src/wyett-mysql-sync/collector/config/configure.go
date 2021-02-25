@@ -86,4 +86,4 @@ type CollectorConfig struct {
 	FullSyncExecutorInsertOnDupUpdate bool   `config:full_sync.executor.insert_on_dup_update`
 }
 
-var option *CollectorConfig
+var option CollectorConfig
