@@ -42,3 +42,7 @@ write to
 |Function|Description|Version |Status|
 | ---- | ---- | ---- | ---- |
 |simple|sync whole instance to file|v1.0.0|todo| 
+
+## doc
+
+- [parser config](./doc/parser_config.md)
